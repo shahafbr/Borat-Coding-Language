@@ -1,0 +1,6 @@
+Suck counter = 0;
+
+Uhrestroom? (counter < 5) {
+    writeOut "Count is: " + counter;
+    counter = counter + 1;
+}

@@ -1,0 +1,4 @@
+Suck name = "Borat Sagdiyev Борат Маргарет Сағдиев";
+Suck othername = "Azamat Bagatov";
+veryNice(name, othername);
+

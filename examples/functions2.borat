@@ -1,0 +1,19 @@
+function dosomething(x, y)
+{
+    veryNice(x);
+    veryNice(y);
+};
+
+dosomething("hello", "world");
+
+
+function sayyourname(name)
+{
+    veryNice(name);
+
+};
+
+sayyourname("john doe");
+
+
+goodbyeMyFriends(sayyourname)
